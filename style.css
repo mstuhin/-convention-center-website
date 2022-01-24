@@ -48,3 +48,18 @@
     margin-left: 760px;
   
 }
+
+
+.bg-footer{
+    height: 300px;
+    background-color: rgb(19, 19, 19);
+}
+
+.font-color{
+    color: rgb(196, 171, 135);
+}
+
+.foter-tex{
+    margin-top: 150px;
+    margin-left: 130px;
+}
